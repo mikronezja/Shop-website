@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Bigger font';
+    src:url('fonts/chatkids-webfont.woff')
+  }
+  @font-face {
+    font-family: 'Curvy font';
+    src:url('fonts/Christmas Okinawa.otf')
+  } 
+
+  @font-face {
+    font-family: 'Main text font';
+    src:url('fonts/Cinema Groovy.otf')
+  } 
+
+  @font-face {
+    font-family: 'Button font';
+    src:url('fonts/Royalacid.ttf')
+  } 
+
+
+  @font-face {
+    font-family: 'Search bar font';
+    src:url('fonts/KIdDOS-Regular.ttf')
+  } 
+
+body { 
+    width: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    margin: 0;
+    color: #fefffc;
+    background-color: #cdde7e;
+}
+
+
